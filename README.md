@@ -18,8 +18,8 @@ Images are resized, preprocessed, and augmented to create a robust training set.
 
 To run this project, make sure the following Python libraries are installed:
 
-```bash
 pip install numpy pandas matplotlib seaborn scikit-learn opencv-python Pillow tqdm
+
 
 ## 🧼 Image Preprocessing
 
